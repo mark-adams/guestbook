@@ -1,0 +1,4 @@
+package: bitbucket.org/markadams/guestbook
+import:
+- package: github.com/gorilla/handlers
+  version: ^1.2.0

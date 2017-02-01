@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Guestbook</title>
+    </head>
+    <body>
+        <div style="width: 500px; margin-left: auto; margin-right: auto;">
+            <h1>Welcome to our Guestbook!</h1>
+
+            <h2>Guests</h2>
+            <p>These are the guests who have signed our guestbook:</p>
+
+            {{ range .Signatures }}
+                <li>{{ .Name }} - {{ .Timestamp.Format "2006-01-02" }}</li>
+            {{ else }}
+                <p>Nobody has signed the guestbook yet! Be the first person!</p>
+            {{ end }}
+
+            <h3>Sign our Guestbook</h3>
+            <form action="/" method="post">
+                <label for="name">Name:</label>
+                <input id="name" name="name" type="text" />
+                <input type="submit" value="Submit" />
+            </form>
+
+            <p>{{ .Hits }} people have visited this website since January 15th, 1998</p>
+            <p>This website works best with
+                <img src="static/images/msie_animated.gif" />
+            </p>
+        </div>
+    </div>
+</html>

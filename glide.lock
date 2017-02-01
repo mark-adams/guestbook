@@ -1,0 +1,6 @@
+hash: 06427706891913a3a8efc6dbb5b79cd374d6b7bc9f2c2cd4b978c306b52f6336
+updated: 2017-02-01T13:42:53.817163892-06:00
+imports:
+- name: github.com/gorilla/handlers
+  version: 3a5767ca75ece5f7f1440b1d16975247f8d8b221
+testImports: []
