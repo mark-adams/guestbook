@@ -46,7 +46,7 @@ func guestbookHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	// Increment the hit counter
-	hitCounter = hitCounter + 2
+	hitCounter = hitCounter + 1
 
 	data := struct {
 		Hits       uint
