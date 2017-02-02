@@ -10,6 +10,8 @@ It comes complete with:
 * Vintage "Microsoft Internet Explorer" badge
 * Absolutely no persistence whatsoever
 
+![Screenshot](https://bytebucket.org/markadams/guestbook/raw/master/screenshot.png)
+
 ## Checkout the code
 ```
 git clone https://bitbucket.org/markadams/guestbook
