@@ -10,7 +10,7 @@ It comes complete with:
 * Vintage "Microsoft Internet Explorer" badge
 * Absolutely no persistence whatsoever
 
-![Screenshot](https://bytebucket.org/markadams/guestbook/raw/master/screenshot.png)
+![Screenshot](https://github.com/mark-adams/guestbook/blob/master/screenshot.png?raw=true)
 
 ## Checkout the code
 ```
