@@ -14,7 +14,7 @@ It comes complete with:
 
 ## Checkout the code
 ```
-git clone https://bitbucket.org/markadams/guestbook
+git clone https://github.com/mark-adams/guestbook
 ```
 
 ## Build and run the tests
