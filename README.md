@@ -5,6 +5,9 @@ guestbook website from the mid-late 90's.
 
 It comes complete with:
 
+blue.gear3406@atomicfalcon.com
+ATATT3xFfGF0MSLfc6iSSJBlKDGjG1qOdDPWhD65MsuKvQN_csuxRIPzrjrx8DXhIR28Js8Nr-K3HWDPKHhjoBqsiLU9DNf1orBV_Sjscz7GM0FchuBr1EF7y810EgUhKZvfr2TIdxpD5l8qfRIyl3O_fWHQ4mTiJGf3JTwLPQjXQGeLYUXPv6o=40F36548
+
 * Working guestbook functionality
 * A hit counter
 * Vintage "Microsoft Internet Explorer" badge
